@@ -70,3 +70,36 @@ main {
   text-align: center;
   box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
 }
+
+p {
+  color: white;
+  opacity: .75;
+}
+
+.three-hour {
+  position: relative;
+  display: inline-block;
+  color: rgb(70, 69, 69);
+  margin: 25px auto;
+  background-color: rgba(255, 255, 255, .5);
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+.weather-box .five-day {
+  position: relative;
+  display: inline-block;
+  color: rgb(70, 69, 69);
+  margin: 25px auto;
+  background-color: rgba(255, 255, 255, .5);
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 3px 3px rgba(0, 0, 0, 0.2);
+}
